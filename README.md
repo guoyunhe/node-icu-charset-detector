@@ -28,6 +28,10 @@ After that, install `node-icu-charset-detector` from npm.
 
     yum install libicu-devel
 
+* openSUSE/SLE
+
+    zypper install libicu-devel
+
 #### OSX
 
 * MacPorts
